@@ -1,11 +1,11 @@
-import { appKey } from "./appkey";
+// import { appKey } from "./appkey";
 
 var firebaseConfig = {
-    apiKey: appKey,
-    authDomain: "testios-3060d.firebaseapp.com",
-    projectId: "testios-3060d",
-    storageBucket: "testios-3060d.appspot.com",
-    messagingSenderId: "868564849053",
-    appId: "1:868564849053:web:6cb90a0e877d82c847df74",
-    measurementId: "G-95D9NTSPWF"
-};
+    apiKey: "AIzaSyBDulUAnIipKZr-tBYdY1cRVWgnuUjZOlU",
+    authDomain: "mangodev-1955a.firebaseapp.com",
+    projectId: "mangodev-1955a",
+    storageBucket: "mangodev-1955a.appspot.com",
+    messagingSenderId: "14678370956",
+    appId: "1:14678370956:web:46617769b333aaa77b29a9",
+    measurementId: "G-M9P9MHVK91"
+  };
